@@ -1,0 +1,73 @@
+.column {
+float: left;
+width: 33.33%;
+padding: 5px;
+}
+.row::after
+{
+content: "";
+clear: both;
+display: table;
+}
+.c1
+{
+float: left;
+width: 33.33%;
+padding: 10px;
+margin:60px;
+}
+.r1::after
+{
+content: "";
+clear: both;
+display: table;
+padding: 10px;
+}
+#div2 img {
+width: 200px;
+height: 250px;
+display: block;
+}
+img
+{
+width: 500px;
+height: 400px;
+margin
+-left:300px;
+padding:10px;
+display: block;
+}
+.column {
+float: left;
+width: 33.33%;
+padding: 5px;
+}
+.row::after
+{
+content: "";
+clear: both;
+display: table;
+}
+.c1
+{
+35
+float: left;
+width: 33.33%;
+padding: 10px;
+margin:40px;
+}
+.image{
+}
+width:280px;
+height:300px;
+.r1::after {
+content: "";
+clear: both;
+display: table;
+padding: 10px;
+}
+#div2 img {
+width: 200px;
+height: 250px;
+display: block;
+}
